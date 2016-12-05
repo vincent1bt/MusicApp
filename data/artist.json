@@ -1,0 +1,121 @@
+{
+"artists": {
+"href": "https://api.spotify.com/v1/search?query=bastille&offset=0&limit=3&type=artist",
+"items": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"followers": {
+"href": null,
+"total": 1743186
+},
+"genres": [
+"folk-pop",
+"metropopolis",
+"pop",
+"tropical house"
+],
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"images": [
+{
+"height": 562,
+"url": "https://i.scdn.co/image/c7aecd080c1258a313ef6f2c9d790b6db791535f",
+"width": 1000
+},
+{
+"height": 360,
+"url": "https://i.scdn.co/image/7f0cb3ea706f702bb4d8aef53383453522e79e4e",
+"width": 640
+},
+{
+"height": 112,
+"url": "https://i.scdn.co/image/d11510aad62c2664bbd9ba579952d143619b1588",
+"width": 199
+},
+{
+"height": 36,
+"url": "https://i.scdn.co/image/6bd13822261c7e7b43f53b0af99fdb9c5d527cdd",
+"width": 64
+}
+],
+"name": "Bastille",
+"popularity": 81,
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+},
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7ALN8203eCI5UtiiRb4P7R"
+},
+"followers": {
+"href": null,
+"total": 732
+},
+"genres": [],
+"href": "https://api.spotify.com/v1/artists/7ALN8203eCI5UtiiRb4P7R",
+"id": "7ALN8203eCI5UtiiRb4P7R",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/cbf953faa7153cddf3d6a8e83f125a4e721b6bd8",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/e7c46b92255ba0405275cb82c927c75be53386d9",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/de7d75f46cca9a04a105e952489f30b575505489",
+"width": 64
+}
+],
+"name": "Bastille",
+"popularity": 18,
+"type": "artist",
+"uri": "spotify:artist:7ALN8203eCI5UtiiRb4P7R"
+},
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/2QS54zBHMU8zdaRs1pQRF0"
+},
+"followers": {
+"href": null,
+"total": 13
+},
+"genres": [],
+"href": "https://api.spotify.com/v1/artists/2QS54zBHMU8zdaRs1pQRF0",
+"id": "2QS54zBHMU8zdaRs1pQRF0",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/c2ccca2d95bd8950c82a7ac619848869dedc3778",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/c504b25378b0b6feaa05ec0942fbac89ffa09e06",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/59786d3d2de5e3beae13f9dd8aad9e98da8a195d",
+"width": 64
+}
+],
+"name": "Vincent Bastille",
+"popularity": 0,
+"type": "artist",
+"uri": "spotify:artist:2QS54zBHMU8zdaRs1pQRF0"
+}
+],
+"limit": 3,
+"next": "https://api.spotify.com/v1/search?query=bastille&offset=3&limit=3&type=artist",
+"offset": 0,
+"previous": null,
+"total": 35
+}
+}

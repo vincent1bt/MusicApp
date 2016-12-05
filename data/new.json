@@ -1,0 +1,1612 @@
+{
+"albums": {
+"href": "https://api.spotify.com/v1/browse/new-releases?offset=0&limit=20",
+"items": [
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+},
+"href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+"id": "1Xyo4u8uXC1ZmMpatF05PJ",
+"name": "The Weeknd",
+"type": "artist",
+"uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/09fggMHib4YkOtwQNXEBII"
+},
+"href": "https://api.spotify.com/v1/albums/09fggMHib4YkOtwQNXEBII",
+"id": "09fggMHib4YkOtwQNXEBII",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/2c7ef91e8327dec51919d1f3be37a411b4028306",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/4816c45ce6ef1e45df6a84784d2123595f787182",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/a2c3947510abbeb764603aa53b96b33d97bd3ff0",
+"width": 64
+}
+],
+"name": "Starboy",
+"type": "album",
+"uri": "spotify:album:09fggMHib4YkOtwQNXEBII"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+},
+"href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+"id": "1Xyo4u8uXC1ZmMpatF05PJ",
+"name": "The Weeknd",
+"type": "artist",
+"uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+}
+],
+"available_markets": [
+"CA",
+"MX",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+},
+"href": "https://api.spotify.com/v1/albums/2ODvWsOgouMbaA5xf0RkJe",
+"id": "2ODvWsOgouMbaA5xf0RkJe",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/7bc60842d505753942b0cedf0e95f53074867806",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/f7419156fa0fdd8cd11ef96d19375ccfcdadb65a",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/31d598b5f25372f8aa84e743d1623ce11c1d3d99",
+"width": 64
+}
+],
+"name": "Starboy",
+"type": "album",
+"uri": "spotify:album:2ODvWsOgouMbaA5xf0RkJe"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+},
+"href": "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+"id": "3t5xRXzsuZmMDkQzgOX35S",
+"name": "Robin Schulz",
+"type": "artist",
+"uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+},
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+},
+"href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+"id": "1Cs0zKBU1kc0i8ypK3B9ai",
+"name": "David Guetta",
+"type": "artist",
+"uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CA",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MX",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"US",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/6yKhjUoOsHa60DSqpugerw"
+},
+"href": "https://api.spotify.com/v1/albums/6yKhjUoOsHa60DSqpugerw",
+"id": "6yKhjUoOsHa60DSqpugerw",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/b783d2f34d20d8e443d7476bb260d594b36259bb",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/f5aab960423bd4fa20ee868b5f6bb90121addc9e",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/6866e83f292e1015852c62707a8adb9f27ef3066",
+"width": 64
+}
+],
+"name": "Shed A Light (feat. Cheat Codes)",
+"type": "album",
+"uri": "spotify:album:6yKhjUoOsHa60DSqpugerw"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+},
+"href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+"id": "0A0FS04o6zMoto8OKPsDwY",
+"name": "YG",
+"type": "artist",
+"uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+}
+],
+"available_markets": [
+"CA",
+"MX",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/4VqdntbxmB7r1At6sPKRnb"
+},
+"href": "https://api.spotify.com/v1/albums/4VqdntbxmB7r1At6sPKRnb",
+"id": "4VqdntbxmB7r1At6sPKRnb",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/19ee4a5e6beb359206fd1750845971fc1d347fb2",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/62649656493a34c173c36689ecb2d9ef87872925",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/16e45057083744e918f0c405ef2a1273e9f56ade",
+"width": 64
+}
+],
+"name": "Red Friday",
+"type": "album",
+"uri": "spotify:album:4VqdntbxmB7r1At6sPKRnb"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+},
+"href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
+"id": "0TnOYISbd1XYRBk9myaseg",
+"name": "Pitbull",
+"type": "artist",
+"uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CA",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MX",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"US",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/4rHzoNjmyHxM2KTr7orELz"
+},
+"href": "https://api.spotify.com/v1/albums/4rHzoNjmyHxM2KTr7orELz",
+"id": "4rHzoNjmyHxM2KTr7orELz",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/72765d985d60f5f4c51f9bac833358d561525c14",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/daab46df4256c4f56032e86ecb17932d192b627a",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/8caff95526f5e2f5ea05ec6f1c659f971d92136b",
+"width": 64
+}
+],
+"name": "Can't Have",
+"type": "album",
+"uri": "spotify:album:4rHzoNjmyHxM2KTr7orELz"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+},
+"href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+"id": "02kJSzxNuaWGqwubyUba0Z",
+"name": "G-Eazy",
+"type": "artist",
+"uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CA",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MX",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"US",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/7npKhKRWDBnp1coXxgkUOc"
+},
+"href": "https://api.spotify.com/v1/albums/7npKhKRWDBnp1coXxgkUOc",
+"id": "7npKhKRWDBnp1coXxgkUOc",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/0c5fa573306e6f7c3fc28021531f56ce6714624c",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/03fae2db0f26accda9c8aaf5279e02a09f21648f",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/2b876fa87823706f9faeffd3a51497e81c7a204e",
+"width": 64
+}
+],
+"name": "Still",
+"type": "album",
+"uri": "spotify:album:7npKhKRWDBnp1coXxgkUOc"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+},
+"href": "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+"id": "22bE4uQ6baNwSHPVcDxLCe",
+"name": "The Rolling Stones",
+"type": "artist",
+"uri": "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+}
+],
+"available_markets": [
+"CA",
+"MX",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/6hWOUS4QzVXHRkTEZXE0Rc"
+},
+"href": "https://api.spotify.com/v1/albums/6hWOUS4QzVXHRkTEZXE0Rc",
+"id": "6hWOUS4QzVXHRkTEZXE0Rc",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/ae74a6103ab898d0335bf749cd4bc1a1c8d028cb",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/4e626ab51384afe8f45476bf9b6be7910c3e3f50",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/f7bb1a7cd037310bf1aa2606c1a08077b135e345",
+"width": 64
+}
+],
+"name": "Ride 'Em On Down",
+"type": "album",
+"uri": "spotify:album:6hWOUS4QzVXHRkTEZXE0Rc"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR"
+},
+"href": "https://api.spotify.com/v1/artists/534rgZ76LDMlM7xLt9xSGR",
+"id": "534rgZ76LDMlM7xLt9xSGR",
+"name": "Bad Rabbits",
+"type": "artist",
+"uri": "spotify:artist:534rgZ76LDMlM7xLt9xSGR"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CA",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MX",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"US",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/1ydRicv54bpVbMekJ1hQNt"
+},
+"href": "https://api.spotify.com/v1/albums/1ydRicv54bpVbMekJ1hQNt",
+"id": "1ydRicv54bpVbMekJ1hQNt",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/875bb81d444c2f7cfcd5510a688c53d8d1014d83",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/6f44d2622a971f3fdfa0ba7813302b5f0be2a55b",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/5e9e77ebc8773400c6afe39f87b0ec6ee9fc9165",
+"width": 64
+}
+],
+"name": "American Nightmare",
+"type": "album",
+"uri": "spotify:album:1ydRicv54bpVbMekJ1hQNt"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+},
+"href": "https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4",
+"id": "540vIaP2JwjQb9dm3aArA4",
+"name": "DJ Snake",
+"type": "artist",
+"uri": "spotify:artist:540vIaP2JwjQb9dm3aArA4"
+},
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+},
+"href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+"id": "2o5jDhtHVPhrJdv3cEQ99Z",
+"name": "TiÃ«sto",
+"type": "artist",
+"uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+}
+],
+"available_markets": [
+"CA",
+"MX",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/1ASGnaVLO875GdjJBGFUEH"
+},
+"href": "https://api.spotify.com/v1/albums/1ASGnaVLO875GdjJBGFUEH",
+"id": "1ASGnaVLO875GdjJBGFUEH",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/41db56d8e25e10199a6a3847ba733ce474407f68",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/e5de747e84ae652ad71bccfea3b6cb57a02809bc",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/4b0149767e069d6458ec46b735f0c47f12465326",
+"width": 64
+}
+],
+"name": "Let Me Love You (TiÃ«sto's AFTR:HRS Mix)",
+"type": "album",
+"uri": "spotify:album:1ASGnaVLO875GdjJBGFUEH"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+},
+"href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+"id": "5y2Xq6xcjJb2jVM54GHK3t",
+"name": "John Legend",
+"type": "artist",
+"uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CA",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MX",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"US",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/5WHpxOJcyX0dvHGAVXgfJF"
+},
+"href": "https://api.spotify.com/v1/albums/5WHpxOJcyX0dvHGAVXgfJF",
+"id": "5WHpxOJcyX0dvHGAVXgfJF",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/22248fae33b313b763220f98b7b693c328db95e7",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/2837823ae22412cd740af259be8f81bf1962314e",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/511f3ae7382fe14a0f1525649a9edca5a3a0373b",
+"width": 64
+}
+],
+"name": "I Know Better",
+"type": "album",
+"uri": "spotify:album:5WHpxOJcyX0dvHGAVXgfJF"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+},
+"href": "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+"id": "6nxWCVXbOlEVRexSbLsTer",
+"name": "Flume",
+"type": "artist",
+"uri": "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+}
+],
+"available_markets": [
+"CA",
+"MX",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/7vVGWnT2WuWF4uixqmP0w6"
+},
+"href": "https://api.spotify.com/v1/albums/7vVGWnT2WuWF4uixqmP0w6",
+"id": "7vVGWnT2WuWF4uixqmP0w6",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/a189f07639e7ed6971caad318cef56b08683f0e2",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/8f3b04688027b0ac291498d7ad134a96a9d39275",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/217b3a144594fd4d6d887e0d1c13dee0eb4a363c",
+"width": 64
+}
+],
+"name": "Skin Companion EP I",
+"type": "album",
+"uri": "spotify:album:7vVGWnT2WuWF4uixqmP0w6"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+},
+"href": "https://api.spotify.com/v1/artists/4lDXfIznmGueBgTjI3qGUX",
+"id": "4lDXfIznmGueBgTjI3qGUX",
+"name": "MÃ¸me",
+"type": "artist",
+"uri": "spotify:artist:4lDXfIznmGueBgTjI3qGUX"
+}
+],
+"available_markets": [
+"CA",
+"MX",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
+},
+"href": "https://api.spotify.com/v1/albums/4ZaeYUM5vgvkpexijZ3w2r",
+"id": "4ZaeYUM5vgvkpexijZ3w2r",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/fa58953946dbe1da0c6258bd8f2bba0b7cd399d8",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/93732750e26d5f37ad866f00dece040d77b04431",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/acb1d1b2ea3e2ee51156793a18e576ee910d6632",
+"width": 64
+}
+],
+"name": "Panorama",
+"type": "album",
+"uri": "spotify:album:4ZaeYUM5vgvkpexijZ3w2r"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+},
+"href": "https://api.spotify.com/v1/artists/5rkVyNGXEgeUqKkB5ccK83",
+"id": "5rkVyNGXEgeUqKkB5ccK83",
+"name": "Ashanti",
+"type": "artist",
+"uri": "spotify:artist:5rkVyNGXEgeUqKkB5ccK83"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CA",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MX",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"US",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/4Ll5KykXbEf1GkJpHTYFUB"
+},
+"href": "https://api.spotify.com/v1/albums/4Ll5KykXbEf1GkJpHTYFUB",
+"id": "4Ll5KykXbEf1GkJpHTYFUB",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/d89b107bc59ad0a10acf3655aa44b8d105d5ba8f",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/cf7f63f3c0204780d3289dab9f749d2b4a03fefc",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/fd9ef1e8586f77061772ef68378c27ae8c8e9eee",
+"width": 64
+}
+],
+"name": "Helpless (feat. Ja Rule) [from The Hamilton Mixtape]",
+"type": "album",
+"uri": "spotify:album:4Ll5KykXbEf1GkJpHTYFUB"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+},
+"href": "https://api.spotify.com/v1/artists/1kNQXvepPjaPgUfeDAF2h6",
+"id": "1kNQXvepPjaPgUfeDAF2h6",
+"name": "You Me At Six",
+"type": "artist",
+"uri": "spotify:artist:1kNQXvepPjaPgUfeDAF2h6"
+}
+],
+"available_markets": [
+"CA",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/4Z14vja95iuQRk9Q2ZqBTf"
+},
+"href": "https://api.spotify.com/v1/albums/4Z14vja95iuQRk9Q2ZqBTf",
+"id": "4Z14vja95iuQRk9Q2ZqBTf",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/20aa67920b0c96752b9bae8f7b0edeee40e2e403",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/a281a126fc09fc210adef167bf6d74aa5aa46607",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/6c4e13953fb9e3c735bbeab4c13c6aa232cfaeb0",
+"width": 64
+}
+],
+"name": "Swear",
+"type": "album",
+"uri": "spotify:album:4Z14vja95iuQRk9Q2ZqBTf"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+},
+"href": "https://api.spotify.com/v1/artists/6KZDXtSj0SzGOV705nNeh3",
+"id": "6KZDXtSj0SzGOV705nNeh3",
+"name": "Kid Ink",
+"type": "artist",
+"uri": "spotify:artist:6KZDXtSj0SzGOV705nNeh3"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CA",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MX",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"US",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/6wlcfF9Eu6mAT6EjIjB2vp"
+},
+"href": "https://api.spotify.com/v1/albums/6wlcfF9Eu6mAT6EjIjB2vp",
+"id": "6wlcfF9Eu6mAT6EjIjB2vp",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/61f0c77c284b6fe5cafd3c735e5611be2b056507",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/f039bb17fb027c73f74218bb5d160f27f9682500",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/9de742c0c28fa034e1abf5da3808f37f5b2edce8",
+"width": 64
+}
+],
+"name": "Gift Wrap",
+"type": "album",
+"uri": "spotify:album:6wlcfF9Eu6mAT6EjIjB2vp"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+},
+"href": "https://api.spotify.com/v1/artists/4f9iBmdUOhQWeP7dcAn1pf",
+"id": "4f9iBmdUOhQWeP7dcAn1pf",
+"name": "Rag'n'Bone Man",
+"type": "artist",
+"uri": "spotify:artist:4f9iBmdUOhQWeP7dcAn1pf"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CA",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MX",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"US",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/112pDqHRmJzu57eJUmSRoo"
+},
+"href": "https://api.spotify.com/v1/albums/112pDqHRmJzu57eJUmSRoo",
+"id": "112pDqHRmJzu57eJUmSRoo",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/cbbbb686ec683476365997413aa2d8e0a3a67102",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/ed15989bc62633b0f87b30968cfd48478e51c928",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/9699514240fae1850e489002294bff49ecfcf805",
+"width": 64
+}
+],
+"name": "Human (Acoustic)",
+"type": "album",
+"uri": "spotify:album:112pDqHRmJzu57eJUmSRoo"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+},
+"href": "https://api.spotify.com/v1/artists/6ydoSd3N2mwgwBHtF6K7eX",
+"id": "6ydoSd3N2mwgwBHtF6K7eX",
+"name": "Calum Scott",
+"type": "artist",
+"uri": "spotify:artist:6ydoSd3N2mwgwBHtF6K7eX"
+}
+],
+"available_markets": [
+"CA",
+"MX",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/0e73yNBuKWk2EPkSOv81GW"
+},
+"href": "https://api.spotify.com/v1/albums/0e73yNBuKWk2EPkSOv81GW",
+"id": "0e73yNBuKWk2EPkSOv81GW",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/021c0fa340d94e51ec077cbb936de34c7b163845",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/ff5a759b638fac46cbb293fb82864cd86f670773",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/85512a915f69f3f1a7f095a2fee5d7e1595bdb6c",
+"width": 64
+}
+],
+"name": "Rhythm Inside",
+"type": "album",
+"uri": "spotify:album:0e73yNBuKWk2EPkSOv81GW"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+},
+"href": "https://api.spotify.com/v1/artists/2lolQgalUvZDfp5vvVtTYV",
+"id": "2lolQgalUvZDfp5vvVtTYV",
+"name": "Tony Bennett",
+"type": "artist",
+"uri": "spotify:artist:2lolQgalUvZDfp5vvVtTYV"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CA",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MX",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"US",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/4exXj3AYcZoM1bDkPv9DEO"
+},
+"href": "https://api.spotify.com/v1/albums/4exXj3AYcZoM1bDkPv9DEO",
+"id": "4exXj3AYcZoM1bDkPv9DEO",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/92d851154487f590275d4e4a086644b2b709631c",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/74225ffecdbf7fc001ed0df7e69ca6e3b30374da",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/ab59150261736628183f46ecb07486cc95d378f0",
+"width": 64
+}
+],
+"name": "Who Cares?",
+"type": "album",
+"uri": "spotify:album:4exXj3AYcZoM1bDkPv9DEO"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy"
+},
+"href": "https://api.spotify.com/v1/artists/4xtWjIlVuZwTCeqVAsgEXy",
+"id": "4xtWjIlVuZwTCeqVAsgEXy",
+"name": "Insane Clown Posse",
+"type": "artist",
+"uri": "spotify:artist:4xtWjIlVuZwTCeqVAsgEXy"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CA",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MX",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"US",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/1Y0DW0ceZzcpYZc8KJ6mD9"
+},
+"href": "https://api.spotify.com/v1/albums/1Y0DW0ceZzcpYZc8KJ6mD9",
+"id": "1Y0DW0ceZzcpYZc8KJ6mD9",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/c1b337b2aaef5e27d9c1c875b864f11b9be20700",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/6da525275c21b37e31c89a1e9c733592a4e18b6a",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/a6abd67d9a92a351a4067b10b92e2e131064abc2",
+"width": 64
+}
+],
+"name": "A Carnival Christmas - EP",
+"type": "album",
+"uri": "spotify:album:1Y0DW0ceZzcpYZc8KJ6mD9"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+},
+"href": "https://api.spotify.com/v1/artists/278ZYwGhdK6QTzE3MFePnP",
+"id": "278ZYwGhdK6QTzE3MFePnP",
+"name": "Trivium",
+"type": "artist",
+"uri": "spotify:artist:278ZYwGhdK6QTzE3MFePnP"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CA",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MX",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"US",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/4F7tNeIPtSjMCZGVeZhVwY"
+},
+"href": "https://api.spotify.com/v1/albums/4F7tNeIPtSjMCZGVeZhVwY",
+"id": "4F7tNeIPtSjMCZGVeZhVwY",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/183fce6ea52b29bce6d6fff561107b61dc279fc1",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/f684cadf3cc90aaebf8dd469f5819e53a5838381",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/a6b2745f61959132f375f4c1e3e84dec69732042",
+"width": 64
+}
+],
+"name": "Lake of Fire",
+"type": "album",
+"uri": "spotify:album:4F7tNeIPtSjMCZGVeZhVwY"
+}
+],
+"limit": 20,
+"next": "https://api.spotify.com/v1/browse/new-releases?offset=20&limit=20",
+"offset": 0,
+"previous": null,
+"total": 500
+}
+}

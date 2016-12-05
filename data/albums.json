@@ -1,0 +1,1269 @@
+{
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc/albums?offset=0&limit=20&album_type=single,album,compilation,appears_on,ep",
+"items": [
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MY",
+"NI",
+"NL",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/5NfeW0DqFVT3Su3kHBgTf4"
+},
+"href": "https://api.spotify.com/v1/albums/5NfeW0DqFVT3Su3kHBgTf4",
+"id": "5NfeW0DqFVT3Su3kHBgTf4",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/964f94530e30414c794244258ce9eb4793b82c03",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/0453ca439c7eb1fcadc77900dec666f4b130e42b",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/bcaa9e9dee716a77b6d2a44f81c5ee7f3cb4633d",
+"width": 64
+}
+],
+"name": "Wild World",
+"type": "album",
+"uri": "spotify:album:5NfeW0DqFVT3Su3kHBgTf4"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"CA",
+"MX",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+},
+"href": "https://api.spotify.com/v1/albums/1qKjUIVG8KmtYceDBWjfqE",
+"id": "1qKjUIVG8KmtYceDBWjfqE",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/b5b2a90018278d3beee0dba01378ba186d1f86f6",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/b944ff9d6fb56bf1ee6873c954fd9e04f3826d83",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/c73d1f900f8cbf2eb07fe27e2fa9199cb345a197",
+"width": 64
+}
+],
+"name": "Wild World (Complete Edition)",
+"type": "album",
+"uri": "spotify:album:1qKjUIVG8KmtYceDBWjfqE"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/0gtU58GVllHFpZzIgLd5lV"
+},
+"href": "https://api.spotify.com/v1/albums/0gtU58GVllHFpZzIgLd5lV",
+"id": "0gtU58GVllHFpZzIgLd5lV",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/964f94530e30414c794244258ce9eb4793b82c03",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/0453ca439c7eb1fcadc77900dec666f4b130e42b",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/bcaa9e9dee716a77b6d2a44f81c5ee7f3cb4633d",
+"width": 64
+}
+],
+"name": "Wild World (Complete Edition)",
+"type": "album",
+"uri": "spotify:album:0gtU58GVllHFpZzIgLd5lV"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"ID",
+"MY",
+"TR"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/34ATkMGEbqgynNh7DJdc6e"
+},
+"href": "https://api.spotify.com/v1/albums/34ATkMGEbqgynNh7DJdc6e",
+"id": "34ATkMGEbqgynNh7DJdc6e",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/964f94530e30414c794244258ce9eb4793b82c03",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/0453ca439c7eb1fcadc77900dec666f4b130e42b",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/bcaa9e9dee716a77b6d2a44f81c5ee7f3cb4633d",
+"width": 64
+}
+],
+"name": "Wild World (Complete Edition)",
+"type": "album",
+"uri": "spotify:album:34ATkMGEbqgynNh7DJdc6e"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"CA",
+"MX",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
+},
+"href": "https://api.spotify.com/v1/albums/1YXsPGQingGkJZLA8uuQNL",
+"id": "1YXsPGQingGkJZLA8uuQNL",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/78e91b420e76b72e8861c844e423b80406e6d247",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/8995c2ab372c8567789b7c70ca843af8420992cd",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/083b472ce66d695c5dbca65d6abc28e7051af3f3",
+"width": 64
+}
+],
+"name": "VS. (Other Peopleâ€™s Heartache, Pt. III)",
+"type": "album",
+"uri": "spotify:album:1YXsPGQingGkJZLA8uuQNL"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/4jIx0vNElySc3aEQIJmyhM"
+},
+"href": "https://api.spotify.com/v1/albums/4jIx0vNElySc3aEQIJmyhM",
+"id": "4jIx0vNElySc3aEQIJmyhM",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/05329705cabf55bee7aebda4a95c20afe6a28c77",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/246e66738c44bd816e6b47acac3c6ddd53f4d4a5",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/a87820c96ee7268c8ec9173c19bf7badbbbc409f",
+"width": 64
+}
+],
+"name": "VS. (Other Peopleâ€™s Heartache, Pt. III)",
+"type": "album",
+"uri": "spotify:album:4jIx0vNElySc3aEQIJmyhM"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"BE"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/0Cl4Hx5RlNAvSjLuow2oIP"
+},
+"href": "https://api.spotify.com/v1/albums/0Cl4Hx5RlNAvSjLuow2oIP",
+"id": "0Cl4Hx5RlNAvSjLuow2oIP",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/3e9b22b72467c87996671df7061b735260e957ad",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/6031f9f7b1a9f9965a3d37b79169d424f70fa110",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/3e6157b433c58dd15d1bc73cc7b980a86750f03f",
+"width": 64
+}
+],
+"name": "All This Bad Blood (Belgian Edition)",
+"type": "album",
+"uri": "spotify:album:0Cl4Hx5RlNAvSjLuow2oIP"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"NL"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/0mmbozH1bdOiW7m7kAgy7L"
+},
+"href": "https://api.spotify.com/v1/albums/0mmbozH1bdOiW7m7kAgy7L",
+"id": "0mmbozH1bdOiW7m7kAgy7L",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/1299541433dffbe2d2bc968af2ab7097336bd4e1",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/c6374c15904b02c0462ac917722b82bac9353ccd",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/036d4d5e0d945618764ed5d68cc6065fa33430dd",
+"width": 64
+}
+],
+"name": "All This Bad Blood",
+"type": "album",
+"uri": "spotify:album:0mmbozH1bdOiW7m7kAgy7L"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BG",
+"BO",
+"BR",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MY",
+"NI",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/2r1iXEfyFZaYSmthwnKGGp"
+},
+"href": "https://api.spotify.com/v1/albums/2r1iXEfyFZaYSmthwnKGGp",
+"id": "2r1iXEfyFZaYSmthwnKGGp",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/558c013aaed1448dd3ae191c06176e66ba2e5cd0",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/328b0b4e16128df6e90843ce0b1e14b982d1e6d0",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/8709563541f24f314011c7c60acd0821b7e19574",
+"width": 64
+}
+],
+"name": "All This Bad Blood",
+"type": "album",
+"uri": "spotify:album:2r1iXEfyFZaYSmthwnKGGp"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"CA",
+"MX",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+},
+"href": "https://api.spotify.com/v1/albums/5G6oMu9zNW2acdV0lqzI3L",
+"id": "5G6oMu9zNW2acdV0lqzI3L",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/3b9be55aee228d15aaa64e4d617ffd58dcf38d77",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/d3772d3163e0ed8020c8d2a9b515576991bedcb6",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/8f02e933c3b10a61ec06152dc3899d609fb86897",
+"width": 64
+}
+],
+"name": "All This Bad Blood",
+"type": "album",
+"uri": "spotify:album:5G6oMu9zNW2acdV0lqzI3L"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj"
+},
+"href": "https://api.spotify.com/v1/albums/64fQ94AVziavTPdnkCS6Nj",
+"id": "64fQ94AVziavTPdnkCS6Nj",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/4627f2fcd0f5299bb8577ddbe26a5e919095c781",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/f823241969b5dae21fa03d34252842609ba9e2ea",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/c011f00b99131631c73bd69f49e24c2246a1f6d4",
+"width": 64
+}
+],
+"name": "Bad Blood",
+"type": "album",
+"uri": "spotify:album:64fQ94AVziavTPdnkCS6Nj"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BG",
+"BO",
+"BR",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"DE",
+"DO",
+"EC",
+"EE",
+"FI",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MX",
+"MY",
+"NI",
+"NL",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PY",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
+},
+"href": "https://api.spotify.com/v1/albums/1jUoeAbO2HCADZ1uiyLYIo",
+"id": "1jUoeAbO2HCADZ1uiyLYIo",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/933b98a03d7968dbd3691075206f9bce14af6302",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/b51d2fae3192e322ffa50cedece43c6cd2b88092",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/e88a52491c9f38ea0851a45a1e848482696ee306",
+"width": 64
+}
+],
+"name": "Bad Blood",
+"type": "album",
+"uri": "spotify:album:1jUoeAbO2HCADZ1uiyLYIo"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"IT"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/5PDnd8Hf6JDy6MmkAcyGZB"
+},
+"href": "https://api.spotify.com/v1/albums/5PDnd8Hf6JDy6MmkAcyGZB",
+"id": "5PDnd8Hf6JDy6MmkAcyGZB",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/933b98a03d7968dbd3691075206f9bce14af6302",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/b51d2fae3192e322ffa50cedece43c6cd2b88092",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/e88a52491c9f38ea0851a45a1e848482696ee306",
+"width": 64
+}
+],
+"name": "Bad Blood",
+"type": "album",
+"uri": "spotify:album:5PDnd8Hf6JDy6MmkAcyGZB"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"BE",
+"CA",
+"CZ",
+"DK",
+"ES",
+"NO",
+"PL",
+"PT",
+"SE"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/7HxQpGRaQXPudaP1t8E6n9"
+},
+"href": "https://api.spotify.com/v1/albums/7HxQpGRaQXPudaP1t8E6n9",
+"id": "7HxQpGRaQXPudaP1t8E6n9",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/a0c5ff4cffef96158673b87e6ce47e2e0e3d1e45",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/b1039cb6d7ad154c21e95cdfe1815d0608e97ec4",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/cf9f49c40bcf46e9c57f12adcb9461ce941c30d5",
+"width": 64
+}
+],
+"name": "Bad Blood",
+"type": "album",
+"uri": "spotify:album:7HxQpGRaQXPudaP1t8E6n9"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"FR"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/4ryAA4FHOpmuSKCB27jioV"
+},
+"href": "https://api.spotify.com/v1/albums/4ryAA4FHOpmuSKCB27jioV",
+"id": "4ryAA4FHOpmuSKCB27jioV",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/6fa1b7317708bf2b80ee238fb757f9365ac5226a",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/bff358e059b5b6dd21f65cccad1b039158e88e21",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/be68f32815524b160eb65ff160eb34f173adf4a7",
+"width": 64
+}
+],
+"name": "Bad Blood",
+"type": "album",
+"uri": "spotify:album:4ryAA4FHOpmuSKCB27jioV"
+},
+{
+"album_type": "album",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"CA",
+"MX",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/32xPzu88bmeZHZBsTYI0ml"
+},
+"href": "https://api.spotify.com/v1/albums/32xPzu88bmeZHZBsTYI0ml",
+"id": "32xPzu88bmeZHZBsTYI0ml",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/3fda5a67f19edfa6e87f3a04c65395cd0825f7fd",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/8ecec95ebecb1d33e1349b360e5325e7eb131c03",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/ef1049b30716c59bdde1c654edf7d1d28508bbb9",
+"width": 64
+}
+],
+"name": "Remixed",
+"type": "album",
+"uri": "spotify:album:32xPzu88bmeZHZBsTYI0ml"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"CA",
+"MX",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/3lx0o9LVlF9XOSDDR0rfnO"
+},
+"href": "https://api.spotify.com/v1/albums/3lx0o9LVlF9XOSDDR0rfnO",
+"id": "3lx0o9LVlF9XOSDDR0rfnO",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/633244cdc25daba232f0187e4b4ab718cb4cbbe7",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/1b1e24563e66d64bc0eea133f8eea3c829bc9126",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/f4fff9073d39a565c3010946fa4d3d73210b2f03",
+"width": 64
+}
+],
+"name": "Send Them Off! (Skream Remix Radio Edit)",
+"type": "album",
+"uri": "spotify:album:3lx0o9LVlF9XOSDDR0rfnO"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/3EC1Yj2Rdxpqn4sc2DvbX2"
+},
+"href": "https://api.spotify.com/v1/albums/3EC1Yj2Rdxpqn4sc2DvbX2",
+"id": "3EC1Yj2Rdxpqn4sc2DvbX2",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/f3f1137e929bc27dae0679abd2c54d21499c1661",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/b214197ed1b59cb61d7981213b662eea96ec202a",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/4d745c860ad1760600c29eda5a52c3f02bd49d87",
+"width": 64
+}
+],
+"name": "Send Them Off! (Skream Remix Radio Edit)",
+"type": "album",
+"uri": "spotify:album:3EC1Yj2Rdxpqn4sc2DvbX2"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"CA",
+"MX",
+"US"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/6UZ82bol42G1scww9VUsrz"
+},
+"href": "https://api.spotify.com/v1/albums/6UZ82bol42G1scww9VUsrz",
+"id": "6UZ82bol42G1scww9VUsrz",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/633244cdc25daba232f0187e4b4ab718cb4cbbe7",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/1b1e24563e66d64bc0eea133f8eea3c829bc9126",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/f4fff9073d39a565c3010946fa4d3d73210b2f03",
+"width": 64
+}
+],
+"name": "Send Them Off! (Mike Mago Remix)",
+"type": "album",
+"uri": "spotify:album:6UZ82bol42G1scww9VUsrz"
+},
+{
+"album_type": "single",
+"artists": [
+{
+"external_urls": {
+"spotify": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+},
+"href": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+"id": "7EQ0qTo7fWT7DPxmxtSYEc",
+"name": "Bastille",
+"type": "artist",
+"uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+}
+],
+"available_markets": [
+"AD",
+"AR",
+"AT",
+"AU",
+"BE",
+"BG",
+"BO",
+"BR",
+"CH",
+"CL",
+"CO",
+"CR",
+"CY",
+"CZ",
+"DE",
+"DK",
+"DO",
+"EC",
+"EE",
+"ES",
+"FI",
+"FR",
+"GB",
+"GR",
+"GT",
+"HK",
+"HN",
+"HU",
+"ID",
+"IE",
+"IS",
+"IT",
+"JP",
+"LI",
+"LT",
+"LU",
+"LV",
+"MC",
+"MT",
+"MY",
+"NI",
+"NL",
+"NO",
+"NZ",
+"PA",
+"PE",
+"PH",
+"PL",
+"PT",
+"PY",
+"SE",
+"SG",
+"SK",
+"SV",
+"TR",
+"TW",
+"UY"
+],
+"external_urls": {
+"spotify": "https://open.spotify.com/album/0WVS4AeFeTIpsEJSzHSFzK"
+},
+"href": "https://api.spotify.com/v1/albums/0WVS4AeFeTIpsEJSzHSFzK",
+"id": "0WVS4AeFeTIpsEJSzHSFzK",
+"images": [
+{
+"height": 640,
+"url": "https://i.scdn.co/image/f3f1137e929bc27dae0679abd2c54d21499c1661",
+"width": 640
+},
+{
+"height": 300,
+"url": "https://i.scdn.co/image/b214197ed1b59cb61d7981213b662eea96ec202a",
+"width": 300
+},
+{
+"height": 64,
+"url": "https://i.scdn.co/image/4d745c860ad1760600c29eda5a52c3f02bd49d87",
+"width": 64
+}
+],
+"name": "Send Them Off! (Mike Mago Remix)",
+"type": "album",
+"uri": "spotify:album:0WVS4AeFeTIpsEJSzHSFzK"
+}
+],
+"limit": 20,
+"next": "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc/albums?offset=20&limit=20&album_type=single,album,compilation,appears_on,ep",
+"offset": 0,
+"previous": null,
+"total": 172
+}

@@ -1,0 +1,224 @@
+body {
+  background-color: #1c1c1f;
+  color: white;
+}
+
+textarea:focus, input:focus, button:focus{
+    outline: none;
+}
+
+.header {
+  height: 200px;
+  width: 100%;
+  background-color: #222222;
+  margin-bottom: 50px;
+}
+
+.header-title {
+  font-size: 4em;
+  margin: 0;
+  margin-left: 50px;
+  line-height: 200px;
+  color: white;
+}
+
+@media (max-width: 600px) {
+  .header {
+    height: 150px;
+  }
+
+  .header-title {
+    font-size: 3em;
+    margin: 0;
+    text-align: center;
+    line-height: 150px;
+    color: white;
+  }
+}
+
+.app-album-title, .app-new-title {
+  margin: 20px 0px 25px 50px;
+  font-size: 3em;
+  padding-bottom: 25px;
+  border-bottom: 1px solid;
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  .app-album-title, .app-new-title {
+    text-align: center;
+    margin: 20px 0px 25px 10px;
+    font-size: 2.5em;
+    padding-bottom: 25px;
+    border-bottom: 1px solid;
+    width: 100%;
+  }
+}
+
+.app-album {
+  width: 100%;
+}
+
+.app-album-songs, .app-new-songs {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.app-album-songs-item, .app-new-songs-item {
+  width: 25%;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+@media (max-width: 900px) {
+  .app-album-songs-item, .app-new-songs-item {
+    width: 50%;
+  }
+}
+
+@media (max-width: 600px) {
+  .app-album-songs-item, .app-new-songs-item {
+    width: 100%;
+  }
+}
+
+
+
+.app-album-songs-item-image, .app-new-songs-item-image{
+  max-width: 75%;
+  -webkit-box-shadow: 3px 10px 56px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 3px 10px 56px 1px rgba(0,0,0,0.75);
+  box-shadow: 3px 10px 56px 1px rgba(0,0,0,0.75);
+}
+
+.app-new-songs-item-name, .app-album-songs-item-name {
+  font-weight: bold;
+  margin: 10px;
+  display: block;
+  color: white;
+  text-decoration: none;
+}
+
+.app-album-songs-item-audio, .app-new-songs-item-audio {
+  width: 75%;
+}
+
+.app-album-picture {
+  width: 100%;
+  height: 750px;
+  overflow: hidden;
+  position: relative;
+}
+
+.app-album-picture-image {
+  width: 100%;
+}
+
+.app-album-picture-name {
+  position: absolute;
+  font-size: 5em;
+  margin: 625px 0 0 50px;
+  height: 50px;
+  z-index: 99;
+  color: white;
+  text-shadow: 6px 0px 30px rgba(0, 0, 0, 1);
+}
+
+@media (max-width: 600px) {
+  .app-album-picture {
+    height: 375px;
+  }
+
+  .app-album-picture-image {
+    width: 100%;
+  }
+
+  .app-album-picture-name {
+    font-size: 2.2em;
+    margin: 315px 0 0 25px;
+  }
+}
+
+.app-search {
+  display: flex;
+  flex-wrap: wrap;
+  height: 185px;
+}
+
+@media (max-width: 600px) {
+  .app-search {
+    height: 300px;
+  }
+}
+
+.app-search-title {
+  width: 50%;
+  text-align: center;
+}
+
+.app-search-title-h4 {
+  font-size: 3em;
+}
+
+@media (max-width: 600px) {
+  .app-search-title {
+    height: 55px;
+  }
+
+  .app-search-title-h4 {
+    font-size: 3em;
+    margin: 0;
+  }
+}
+
+.app-search-find {
+  width: 50%;
+  position: relative;
+}
+
+.app-search-find-input {
+  height: 35px;
+  margin-top: 65px;
+  margin-left: 10%;
+  width: 70%;
+  font-size: 2em;
+  border: 0;
+  padding: 5px;
+}
+
+.app-search-find-button {
+  height: 45px;
+  position: absolute;
+  top: 65px;
+  width: 10%;
+  right: 10%;
+  border: 0;
+  background-color: rgba(127, 140, 141,1.0);
+  color: white;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .app-search-title {
+    width: 100%;
+  }
+
+  .app-search-find {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .app-search-find-input {
+    margin-top: 0px;
+    margin-left: 2.5%;
+    width: 77.5%;
+  }
+
+  .app-search-find-button {
+    top: 0px;
+    width: 17.5%;
+    right: 2.5%;
+  }
+}
+
+
